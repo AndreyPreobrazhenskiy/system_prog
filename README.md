@@ -2,4 +2,4 @@
 
 ## 3 kurs, vesenniy semestr
 
-* lab2 - lab5 *
+** lab2 - lab5 **
